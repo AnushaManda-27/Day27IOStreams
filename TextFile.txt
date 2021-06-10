@@ -1,0 +1,6 @@
+Name:Anusha
+Address: Naspur, Telangana
+City:Hyderabad
+State: Telangana
+Phoneno:9876543210
+Email:Anushamand27@gmail.com
